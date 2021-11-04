@@ -1,0 +1,9 @@
+C:\Users\Micro\source\repos\AppProdutos-master\AppProdutos\obj\Debug\netcoreapp3.1\AppProdutos.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\AppProdutos-master\AppProdutos\obj\Debug\netcoreapp3.1\AppProdutos.Menu.resources
+C:\Users\Micro\source\repos\AppProdutos-master\AppProdutos\obj\Debug\netcoreapp3.1\AppProdutos.TelaAlterar.resources
+C:\Users\Micro\source\repos\AppProdutos-master\AppProdutos\obj\Debug\netcoreapp3.1\AppProdutos.View.TelaCad.resources
+C:\Users\Micro\source\repos\AppProdutos-master\AppProdutos\obj\Debug\netcoreapp3.1\AppProdutos.csproj.GenerateResource.cache
+C:\Users\Micro\source\repos\AppProdutos-master\AppProdutos\obj\Debug\netcoreapp3.1\AppProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\AppProdutos-master\AppProdutos\obj\Debug\netcoreapp3.1\AppProdutos.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\AppProdutos-master\AppProdutos\obj\Debug\netcoreapp3.1\AppProdutos.AssemblyInfo.cs
+C:\Users\Micro\source\repos\AppProdutos-master\AppProdutos\obj\Debug\netcoreapp3.1\AppProdutos.csproj.CoreCompileInputs.cache
